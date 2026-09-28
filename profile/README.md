@@ -2,7 +2,7 @@
 
 ### Advanced Systems & Software Development
 
-> **Engineering Enterprise Systems. Smarter. Faster.**
+> **Nothing redundant.**
 
 RAZE is a software and systems engineering company building high-performance platforms, business infrastructure, and cybersecurity solutions for modern organizations.
 
